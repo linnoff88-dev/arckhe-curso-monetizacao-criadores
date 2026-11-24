@@ -1,4 +1,4 @@
-﻿# MonetizaÃ§Ã£o: PortfÃ³lio, Ofertas, PreÃ§os e Clientes v6.2
+# MonetizaÃ§Ã£o: PortfÃ³lio, Ofertas, PreÃ§os e Clientes v6.2
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,9 +6,9 @@
 </div>
 
 
-Curso gratuito INEMA.CLUB: 24 aulas, oito mÃ³dulos, calculadora de orÃ§amento, trÃªs pacotes, trÃªs peÃ§as reais produzidas pelo aluno, portfÃ³lio PDF, plano de sete dias e vinte modelos de abordagem com trÃªs adaptaÃ§Ãµes prÃ³prias. Estimativa: 12â€“18 horas com peÃ§as existentes; produÃ§Ã£o de peÃ§as novas exige tempo adicional.
+Curso gratuito ARCKHÉ AI: 24 aulas, oito mÃ³dulos, calculadora de orÃ§amento, trÃªs pacotes, trÃªs peÃ§as reais produzidas pelo aluno, portfÃ³lio PDF, plano de sete dias e vinte modelos de abordagem com trÃªs adaptaÃ§Ãµes prÃ³prias. Estimativa: 12â€“18 horas com peÃ§as existentes; produÃ§Ã£o de peÃ§as novas exige tempo adicional.
 
-Rita, Celso, EstÃºdio Linha e Bruma sÃ£o fictÃ­cios. PreÃ§os pÃºblicos sÃ£o exemplos datados e nÃ£o recomendaÃ§Ãµes. Taxas da calculadora sÃ£o premissas de simulaÃ§Ã£o, nÃ£o orientaÃ§Ã£o tributÃ¡ria. O curso nÃ£o promete renda, envia mensagens, abre empresas ou realiza pagamentos. Os cursos INEMA sÃ£o gratuitos.
+Rita, Celso, EstÃºdio Linha e Bruma sÃ£o fictÃ­cios. PreÃ§os pÃºblicos sÃ£o exemplos datados e nÃ£o recomendaÃ§Ãµes. Taxas da calculadora sÃ£o premissas de simulaÃ§Ã£o, nÃ£o orientaÃ§Ã£o tributÃ¡ria. O curso nÃ£o promete renda, envia mensagens, abre empresas ou realiza pagamentos. Os cursos ARCKHÉ sÃ£o gratuitos.
 
 IlustraÃ§Ãµes do recurso nativo do Codex solicitado pelo usuÃ¡rio. A ferramenta nÃ£o oferece seletor ou confirmaÃ§Ã£o da versÃ£o 2.5. Progresso de leitura nÃ£o comprova execuÃ§Ã£o dos exercÃ­cios. NÃ£o hÃ¡ videoaulas gravadas ou casos comerciais reais simulados como resultados.
 
@@ -16,7 +16,7 @@ ReconstruÃ§Ã£o: python3 montar-apoio.py; python3 montar.py.
 
 ## English / EspaÃ±ol
 
-[English](https://inematds.github.io/curso-monetizacao-criadores/en/) Â· [EspaÃ±ol](https://inematds.github.io/curso-monetizacao-criadores/es/)
+[English](https://linnoff88-dev.github.io/ Â· [EspaÃ±ol](https://linnoff88-dev.github.io/
 
 Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraÃ§Ãµes originais compartilhadas; progresso e anotaÃ§Ãµes separados por idioma.
 
@@ -32,13 +32,13 @@ Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos s
 
 EvidÃªncias em `context/validacao-i18n.md`. RevisÃµes por agentes sÃ£o simuladas, nÃ£o testes com alunos reais.
 
-<!-- inema-backlink:v1 -->
-## Mais no INEMA.CLUB
+<!-- ARCKHÉ-backlink:v1 -->
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/300-monetizacao-portfolio-ofertas-precos-e-clientes/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
-<!-- /inema-backlink:v1 -->
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/300-monetizacao-portfolio-ofertas-precos-e-clientes/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
+<!-- /ARCKHÉ-backlink:v1 -->
 
 ---
 
