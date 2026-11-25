@@ -1,388 +1,388 @@
 {
   "slug": "monetizacao-criadores",
-  "title": "MonetizaÃ§Ã£o: PortfÃ³lio, Ofertas, PreÃ§os e Clientes v6.2",
+  "title": "MonetizaêÂ§êÂ£o: PortfêÂ³lio, Ofertas, PreêÂ§os e Clientes v6.2",
   "modules": [
     {
       "title": "Oferta que faz sentido",
-      "promise": "Escolha pÃºblico, necessidade e escopo.",
+      "promise": "Escolha pêÂºblico, necessidade e escopo.",
       "topics": [
         {
           "title": "Uma oferta liga problema e entrega",
-          "concept": "Oferta Ã© a descriÃ§Ã£o do trabalho, do pÃºblico e das condiÃ§Ãµes de contrataÃ§Ã£o. Rita, criadora de 36 anos, conversa com Celso, artesÃ£o de 56 anos. O EstÃºdio Linha Ã© seu caso fictÃ­cio. A marca Bruma precisa apresentar um vaso azul em conteÃºdos curtos.",
-          "why": "Quatro caminhos possÃ­veis sÃ£o serviÃ§o sob encomenda, licenciamento de materiais prÃ³prios, indicaÃ§Ã£o remunerada e produto prÃ³prio. Cada um exige produÃ§Ã£o, direitos e uma forma de encontrar interessados. Neste curso, o projeto principal Ã© um serviÃ§o criativo. NÃ£o hÃ¡ promessa de renda ou primeiro cliente garantido.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "concept": "Oferta êÂ© a descriêÂ§êÂ£o do trabalho, do pêÂºblico e das condiêÂ§êÂµes de contrataêÂ§êÂ£o. Rita, criadora de 36 anos, conversa com Celso, artesêÂ£o de 56 anos. O EstêÂºdio Linha êÂ© seu caso fictêÂ­cio. A marca Bruma precisa apresentar um vaso azul em conteêÂºdos curtos.",
+          "why": "Quatro caminhos possêÂ­veis sêÂ£o serviêÂ§o sob encomenda, licenciamento de materiais prêÂ³prios, indicaêÂ§êÂ£o remunerada e produto prêÂ³prio. Cada um exige produêÂ§êÂ£o, direitos e uma forma de encontrar interessados. Neste curso, o projeto principal êÂ© um serviêÂ§o criativo. NêÂ£o hêÂ¡ promessa de renda ou primeiro cliente garantido.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "O serviÃ§o precisa caber na sua capacidade",
-          "concept": "Escolha algo que jÃ¡ consegue produzir: vÃ­deo de produto, demonstraÃ§Ã£o com personagem identificado ou sÃ©rie de imagens. Se ainda nÃ£o tem essa base, conclua os cursos de produÃ§Ã£o da sÃ©rie. Este curso organiza o trabalho para apresentar uma proposta, sem ensinar cada gerador desde o inÃ­cio.",
-          "why": "Escreva pÃºblico, necessidade e entrega. Exemplo: pequenos ateliÃªs; mostrar a forma de uma peÃ§a; um vÃ­deo vertical de 15 segundos. A proposta nÃ£o garante vendas. O curso ARCKHÉ Ã© gratuito; estudar monetizaÃ§Ã£o de serviÃ§os nÃ£o significa vender estes cursos.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "O serviêÂ§o precisa caber na sua capacidade",
+          "concept": "Escolha algo que jêÂ¡ consegue produzir: vêÂ­deo de produto, demonstraêÂ§êÂ£o com personagem identificado ou sêÂ©rie de imagens. Se ainda nêÂ£o tem essa base, conclua os cursos de produêÂ§êÂ£o da sêÂ©rie. Este curso organiza o trabalho para apresentar uma proposta, sem ensinar cada gerador desde o inêÂ­cio.",
+          "why": "Escreva pêÂºblico, necessidade e entrega. Exemplo: pequenos ateliêÂªs; mostrar a forma de uma peêÂ§a; um vêÂ­deo vertical de 15 segundos. A proposta nêÂ£o garante vendas. O curso ARCKHê êÂ© gratuito; estudar monetizaêÂ§êÂ£o de serviêÂ§os nêÂ£o significa vender estes cursos.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "O pedido inicial raramente contÃ©m tudo",
-          "concept": "Celso pede um vÃ­deo bonito para a Bruma. Rita pergunta onde serÃ¡ usado, qual objeto precisa aparecer e o que a pessoa deve entender. A resposta fictÃ­cia Ã©: perfil do ateliÃª; vaso azul; forma e textura. Isso orienta roteiro, enquadramento e duraÃ§Ã£o.",
-          "why": "Escreva: produzo vÃ­deos curtos de produto para ateliÃªs apresentarem forma e detalhes nas redes. Essa frase descreve sua contribuiÃ§Ã£o. Aumentar vendas depende tambÃ©m de oferta, distribuiÃ§Ã£o, atendimento e outros fatores. NÃ£o transforme uma intenÃ§Ã£o do cliente em garantia de desempenho.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "O pedido inicial raramente contêÂ©m tudo",
+          "concept": "Celso pede um vêÂ­deo bonito para a Bruma. Rita pergunta onde serêÂ¡ usado, qual objeto precisa aparecer e o que a pessoa deve entender. A resposta fictêÂ­cia êÂ©: perfil do ateliêÂª; vaso azul; forma e textura. Isso orienta roteiro, enquadramento e duraêÂ§êÂ£o.",
+          "why": "Escreva: produzo vêÂ­deos curtos de produto para ateliêÂªs apresentarem forma e detalhes nas redes. Essa frase descreve sua contribuiêÂ§êÂ£o. Aumentar vendas depende tambêÂ©m de oferta, distribuiêÂ§êÂ£o, atendimento e outros fatores. NêÂ£o transforme uma intenêÂ§êÂ£o do cliente em garantia de desempenho.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "A linguagem do cliente comeÃ§a pelo uso",
-          "concept": "VocÃª pode explicar ferramentas depois, quando elas afetam preÃ§o, direitos ou qualidade. Comece por entrega e utilidade. Em vez de uma lista de modelos, mostre um exemplo e explique o que foi conferido. TransparÃªncia sobre IA continua necessÃ¡ria; simplificar nÃ£o significa esconder o processo.",
-          "why": "Na prÃ¡tica, escreva duas versÃµes da oferta e leia como alguÃ©m que nunca usou seu editor. Escolha a mais clara. Se nÃ£o houver cliente real, use o caso fictÃ­cio e identifique a simulaÃ§Ã£o. Nenhuma conversa comercial precisa ser enviada para concluir esta aula.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "A linguagem do cliente comeêÂ§a pelo uso",
+          "concept": "VocêÂª pode explicar ferramentas depois, quando elas afetam preêÂ§o, direitos ou qualidade. Comece por entrega e utilidade. Em vez de uma lista de modelos, mostre um exemplo e explique o que foi conferido. TransparêÂªncia sobre IA continua necessêÂ¡ria; simplificar nêÂ£o significa esconder o processo.",
+          "why": "Na prêÂ¡tica, escreva duas versêÂµes da oferta e leia como alguêÂ©m que nunca usou seu editor. Escolha a mais clara. Se nêÂ£o houver cliente real, use o caso fictêÂ­cio e identifique a simulaêÂ§êÂ£o. Nenhuma conversa comercial precisa ser enviada para concluir esta aula.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
           "title": "Escopo descreve o trabalho contratado",
-          "concept": "Registre quantidade, duraÃ§Ã£o, formato, arquivos, revisÃµes e prazo. No exemplo, um vÃ­deo vertical de 15 segundos, MP4, uma rodada de ajustes e legenda curta. Uma rodada reÃºne comentÃ¡rios numa lista Ãºnica. Ela nÃ£o significa alteraÃ§Ãµes ilimitadas atÃ© alguÃ©m cansar.",
-          "why": "Defina o que o cliente fornece: referÃªncia do produto, informaÃ§Ãµes corretas e aprovaÃ§Ã£o de roteiro. Escreva tambÃ©m exclusÃµes, como filmagem presencial, traduÃ§Ã£o e anÃºncios pagos. O prazo comeÃ§a apÃ³s receber os materiais e aprovar a etapa prevista, conforme o acordo.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "concept": "Registre quantidade, duraêÂ§êÂ£o, formato, arquivos, revisêÂµes e prazo. No exemplo, um vêÂ­deo vertical de 15 segundos, MP4, uma rodada de ajustes e legenda curta. Uma rodada reêÂºne comentêÂ¡rios numa lista êÂºnica. Ela nêÂ£o significa alteraêÂ§êÂµes ilimitadas atêÂ© alguêÂ©m cansar.",
+          "why": "Defina o que o cliente fornece: referêÂªncia do produto, informaêÂ§êÂµes corretas e aprovaêÂ§êÂ£o de roteiro. Escreva tambêÂ©m exclusêÂµes, como filmagem presencial, traduêÂ§êÂ£o e anêÂºncios pagos. O prazo comeêÂ§a apêÂ³s receber os materiais e aprovar a etapa prevista, conforme o acordo.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "O processo reduz dÃºvidas antes da execuÃ§Ã£o",
-          "concept": "Divida em roteiro, referÃªncia, primeira versÃ£o e revisÃ£o. Em cada etapa, diga o que serÃ¡ aprovado e por quem. MudanÃ§a de produto apÃ³s o roteiro pode exigir novo orÃ§amento. Registre esse limite de modo compreensÃ­vel, sem esconder condiÃ§Ãµes em letras pequenas.",
-          "why": "Nesta prÃ¡tica, preencha o escopo do caso Bruma. Ele Ã© um exercÃ­cio, nÃ£o um contrato completo. Para uma contrataÃ§Ã£o real, adapte obrigaÃ§Ãµes, direitos, pagamentos e regras aplicÃ¡veis com orientaÃ§Ã£o adequada. NÃ£o envie uma proposta como definitiva enquanto houver campos essenciais em aberto.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "O processo reduz dêÂºvidas antes da execuêÂ§êÂ£o",
+          "concept": "Divida em roteiro, referêÂªncia, primeira versêÂ£o e revisêÂ£o. Em cada etapa, diga o que serêÂ¡ aprovado e por quem. MudanêÂ§a de produto apêÂ³s o roteiro pode exigir novo orêÂ§amento. Registre esse limite de modo compreensêÂ­vel, sem esconder condiêÂ§êÂµes em letras pequenas.",
+          "why": "Nesta prêÂ¡tica, preencha o escopo do caso Bruma. Ele êÂ© um exercêÂ­cio, nêÂ£o um contrato completo. Para uma contrataêÂ§êÂ£o real, adapte obrigaêÂ§êÂµes, direitos, pagamentos e regras aplicêÂ¡veis com orientaêÂ§êÂ£o adequada. NêÂ£o envie uma proposta como definitiva enquanto houver campos essenciais em aberto.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         }
       ]
     },
     {
-      "title": "PreÃ§o e direitos",
-      "promise": "Calcule custos e compare condiÃ§Ãµes de uso.",
+      "title": "PreêÂ§o e direitos",
+      "promise": "Calcule custos e compare condiêÂ§êÂµes de uso.",
       "topics": [
         {
           "title": "O custo precisa incluir o seu trabalho",
-          "concept": "Exemplo fictÃ­cio: seis horas a R$ 60 somam R$ 360. Acrescente R$ 90 de despesas diretas e R$ 150 de custos fixos alocados. A base fica em R$ 600. O valor da hora Ã© uma hipÃ³tese de exercÃ­cio, nÃ£o piso profissional nem mÃ©dia brasileira.",
-          "why": "Uma forma de planejar a hora Ã© dividir a remuneraÃ§Ã£o mensal desejada pelas horas realmente faturÃ¡veis. R$ 2.400 divididos por 40 horas dÃ£o R$ 60. Horas de venda, estudo e administraÃ§Ã£o tambÃ©m ocupam sua agenda. Custos fixos entram separadamente para nÃ£o serem esquecidos ou contados duas vezes.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "concept": "Exemplo fictêÂ­cio: seis horas a R$ 60 somam R$ 360. Acrescente R$ 90 de despesas diretas e R$ 150 de custos fixos alocados. A base fica em R$ 600. O valor da hora êÂ© uma hipêÂ³tese de exercêÂ­cio, nêÂ£o piso profissional nem mêÂ©dia brasileira.",
+          "why": "Uma forma de planejar a hora êÂ© dividir a remuneraêÂ§êÂ£o mensal desejada pelas horas realmente faturêÂ¡veis. R$ 2.400 divididos por 40 horas dêÂ£o R$ 60. Horas de venda, estudo e administraêÂ§êÂ£o tambêÂ©m ocupam sua agenda. Custos fixos entram separadamente para nêÂ£o serem esquecidos ou contados duas vezes.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "Margem sobre o preÃ§o difere de acrÃ©scimo sobre custo",
-          "concept": "No modelo simplificado, reserve 10% do preÃ§o para tributos e taxas e 20% para margem. Divida R$ 600 por 0,70: aproximadamente R$ 857,14. Acrescentar apenas 20% ao custo nÃ£o produz margem de 20% sobre o preÃ§o. A calculadora mostra a diferenÃ§a.",
-          "why": "Os percentuais sÃ£o ilustrativos. Seu regime, taxas e custos precisam ser verificados antes de um orÃ§amento real. A sobra calculada sÃ³ representa o resultado deste modelo se todos os custos estiverem incluÃ­dos. Use a prÃ¡tica para conferir a conta, sem tratar a simulaÃ§Ã£o como orientaÃ§Ã£o tributÃ¡ria individual.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "Margem sobre o preêÂ§o difere de acrêÂ©scimo sobre custo",
+          "concept": "No modelo simplificado, reserve 10% do preêÂ§o para tributos e taxas e 20% para margem. Divida R$ 600 por 0,70: aproximadamente R$ 857,14. Acrescentar apenas 20% ao custo nêÂ£o produz margem de 20% sobre o preêÂ§o. A calculadora mostra a diferenêÂ§a.",
+          "why": "Os percentuais sêÂ£o ilustrativos. Seu regime, taxas e custos precisam ser verificados antes de um orêÂ§amento real. A sobra calculada sêÂ³ representa o resultado deste modelo se todos os custos estiverem incluêÂ­dos. Use a prêÂ¡tica para conferir a conta, sem tratar a simulaêÂ§êÂ£o como orientaêÂ§êÂ£o tributêÂ¡ria individual.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "PreÃ§o anunciado Ã© uma observaÃ§Ã£o com data",
-          "concept": "A pesquisa de 25 de setembro de 2026 encontrou ofertas pÃºblicas distintas. Nicolly Braga anuncia R$ 199 por um vÃ­deo UGC de atÃ© 60 segundos, duas fotos e uso por trÃªs meses. Interagilis anuncia R$ 250 por avatar de 15 segundos com roteiro e ediÃ§Ã£o. Os endereÃ§os estÃ£o no caderno.",
-          "why": "Esses anÃºncios nÃ£o comprovam vendas realizadas, qualidade ou preÃ§o mÃ©dio do mercado. UGC Ã© conteÃºdo em linguagem de usuÃ¡rio; um depoimento pessoal precisa ser verdadeiro. Um avatar sintÃ©tico nÃ£o pode fingir uma experiÃªncia humana. ServiÃ§os de crÃ©ditos de uma ferramenta tambÃ©m nÃ£o equivalem Ã  produÃ§Ã£o completa.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "PreêÂ§o anunciado êÂ© uma observaêÂ§êÂ£o com data",
+          "concept": "A pesquisa de 25 de setembro de 2026 encontrou ofertas pêÂºblicas distintas. Nicolly Braga anuncia R$ 199 por um vêÂ­deo UGC de atêÂ© 60 segundos, duas fotos e uso por trêÂªs meses. Interagilis anuncia R$ 250 por avatar de 15 segundos com roteiro e ediêÂ§êÂ£o. Os endereêÂ§os estêÂ£o no caderno.",
+          "why": "Esses anêÂºncios nêÂ£o comprovam vendas realizadas, qualidade ou preêÂ§o mêÂ©dio do mercado. UGC êÂ© conteêÂºdo em linguagem de usuêÂ¡rio; um depoimento pessoal precisa ser verdadeiro. Um avatar sintêÂ©tico nêÂ£o pode fingir uma experiêÂªncia humana. ServiêÂ§os de crêÂ©ditos de uma ferramenta tambêÂ©m nêÂ£o equivalem êÂ  produêÂ§êÂ£o completa.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "Compare funÃ§Ã£o, produÃ§Ã£o e direitos",
-          "concept": "Para anÃºncios de produto, demonstraÃ§Ãµes, peÃ§as cARCKHÉtogrÃ¡ficas e avatares, registre duraÃ§Ã£o, quantidade, roteiro, revisÃµes, direitos e dependÃªncias. Marque nÃ£o informado quando a pÃ¡gina omitir algo. O caderno inclui uma terceira oferta e as limitaÃ§Ãµes de comparaÃ§Ã£o.",
-          "why": "Use os preÃ§os apenas para formular perguntas e situar a proposta. Monte seu prÃ³prio custo antes de negociar. NÃ£o converta uma tabela estrangeira em reais e apresente como pesquisa brasileira. Nesta prÃ¡tica, compare trÃªs anÃºncios do caderno, sem contatar fornecedores ou recomendar contrataÃ§Ã£o.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "Compare funêÂ§êÂ£o, produêÂ§êÂ£o e direitos",
+          "concept": "Para anêÂºncios de produto, demonstraêÂ§êÂµes, peêÂ§as cARCKHêtogrêÂ¡ficas e avatares, registre duraêÂ§êÂ£o, quantidade, roteiro, revisêÂµes, direitos e dependêÂªncias. Marque nêÂ£o informado quando a pêÂ¡gina omitir algo. O caderno inclui uma terceira oferta e as limitaêÂ§êÂµes de comparaêÂ§êÂ£o.",
+          "why": "Use os preêÂ§os apenas para formular perguntas e situar a proposta. Monte seu prêÂ³prio custo antes de negociar. NêÂ£o converta uma tabela estrangeira em reais e apresente como pesquisa brasileira. Nesta prêÂ¡tica, compare trêÂªs anêÂºncios do caderno, sem contatar fornecedores ou recomendar contrataêÂ§êÂ£o.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
           "title": "Direitos de uso precisam aparecer no acordo",
-          "concept": "Registre quem usa, qual material, canais, territÃ³rio, prazo e possibilidade de alteraÃ§Ã£o. Uso orgÃ¢nico Ã© publicar sem pagar para impulsionar a distribuiÃ§Ã£o. Impulsionamento e anÃºncio pago sÃ£o mÃ­dia paga. No exercÃ­cio Bruma, a proposta prevÃª uso orgÃ¢nico por 30 dias nos canais da marca. MÃ­dia paga e exclusividade ficam fora atÃ© nova negociaÃ§Ã£o.",
-          "why": "A Lei de Direitos Autorais trata modalidades de utilizaÃ§Ã£o e transferÃªncia de direitos. A compra de um exemplar nÃ£o transfere automaticamente todos os direitos patrimoniais. Contratos de cessÃ£o exigem cuidado com forma e alcance. Use a fonte oficial para orientaÃ§Ã£o geral e revise um acordo real com profissional habilitado.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "concept": "Registre quem usa, qual material, canais, territêÂ³rio, prazo e possibilidade de alteraêÂ§êÂ£o. Uso orgêÂ¢nico êÂ© publicar sem pagar para impulsionar a distribuiêÂ§êÂ£o. Impulsionamento e anêÂºncio pago sêÂ£o mêÂ­dia paga. No exercêÂ­cio Bruma, a proposta prevêÂª uso orgêÂ¢nico por 30 dias nos canais da marca. MêÂ­dia paga e exclusividade ficam fora atêÂ© nova negociaêÂ§êÂ£o.",
+          "why": "A Lei de Direitos Autorais trata modalidades de utilizaêÂ§êÂ£o e transferêÂªncia de direitos. A compra de um exemplar nêÂ£o transfere automaticamente todos os direitos patrimoniais. Contratos de cessêÂ£o exigem cuidado com forma e alcance. Use a fonte oficial para orientaêÂ§êÂ£o geral e revise um acordo real com profissional habilitado.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "VocÃª sÃ³ pode oferecer direitos que possui",
-          "concept": "Confira permissÃµes de imagem, voz, mÃºsica, fontes e serviÃ§os de IA usados. A autorizaÃ§Ã£o de uma pessoa para uma gravaÃ§Ã£o nÃ£o deve ser presumida para clonagem. Descreva finalidade, perÃ­odo e possibilidade de revogaÃ§Ã£o conforme o acordo e a legislaÃ§Ã£o aplicÃ¡vel. NÃ£o prometa exclusividade sobre material que sua licenÃ§a nÃ£o permite.",
-          "why": "Nesta prÃ¡tica, preencha a ficha de uso do caso fictÃ­cio e identifique dÃºvidas. Ela organiza perguntas; nÃ£o substitui um contrato personalizado. Se houver pessoa real, obtenha a autorizaÃ§Ã£o necessÃ¡ria antes de usar sua imagem ou voz. Uma marca fictÃ­cia facilita o estudo sem inventar um cliente.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "VocêÂª sêÂ³ pode oferecer direitos que possui",
+          "concept": "Confira permissêÂµes de imagem, voz, mêÂºsica, fontes e serviêÂ§os de IA usados. A autorizaêÂ§êÂ£o de uma pessoa para uma gravaêÂ§êÂ£o nêÂ£o deve ser presumida para clonagem. Descreva finalidade, perêÂ­odo e possibilidade de revogaêÂ§êÂ£o conforme o acordo e a legislaêÂ§êÂ£o aplicêÂ¡vel. NêÂ£o prometa exclusividade sobre material que sua licenêÂ§a nêÂ£o permite.",
+          "why": "Nesta prêÂ¡tica, preencha a ficha de uso do caso fictêÂ­cio e identifique dêÂºvidas. Ela organiza perguntas; nêÂ£o substitui um contrato personalizado. Se houver pessoa real, obtenha a autorizaêÂ§êÂ£o necessêÂ¡ria antes de usar sua imagem ou voz. Uma marca fictêÂ­cia facilita o estudo sem inventar um cliente.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         }
       ]
     },
     {
-      "title": "PortfÃ³lio em sete dias",
-      "promise": "Organize trÃªs peÃ§as reais com contexto.",
+      "title": "PortfêÂ³lio em sete dias",
+      "promise": "Organize trêÂªs peêÂ§as reais com contexto.",
       "topics": [
         {
-          "title": "A seleÃ§Ã£o precisa responder Ã  oferta",
-          "concept": "Escolha trÃªs trabalhos prÃ³prios, de estudo ou de clientes com permissÃ£o. Para vÃ­deo de produto, priorize peÃ§as que mostrem objeto, detalhe e encerramento claros. Uma sÃ©rie de retratos pode ser bonita, mas nÃ£o demonstra sozinha que vocÃª entrega esse serviÃ§o.",
-          "why": "Identifique estudos como autorais e fictÃ­cios. NÃ£o invente uma marca atendida, campanha veiculada ou resultado de vendas. Abra os arquivos finais fora do editor. Se o estudo ainda for apenas roteiro, registre como pendente. O portfÃ³lio final deste curso exige trÃªs peÃ§as existentes.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "A seleêÂ§êÂ£o precisa responder êÂ  oferta",
+          "concept": "Escolha trêÂªs trabalhos prêÂ³prios, de estudo ou de clientes com permissêÂ£o. Para vêÂ­deo de produto, priorize peêÂ§as que mostrem objeto, detalhe e encerramento claros. Uma sêÂ©rie de retratos pode ser bonita, mas nêÂ£o demonstra sozinha que vocêÂª entrega esse serviêÂ§o.",
+          "why": "Identifique estudos como autorais e fictêÂ­cios. NêÂ£o invente uma marca atendida, campanha veiculada ou resultado de vendas. Abra os arquivos finais fora do editor. Se o estudo ainda for apenas roteiro, registre como pendente. O portfêÂ³lio final deste curso exige trêÂªs peêÂ§as existentes.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
           "title": "O arquivo precisa estar pronto para ser visto",
-          "concept": "Use MP4, imagens ou pÃ¡ginas conforme sua oferta. Confira comeÃ§o, fim, legibilidade, som quando houver e crÃ©ditos. Guarde tambÃ©m as fontes. Se uma peÃ§a estiver fraca, planeje uma correÃ§Ã£o pequena. NÃ£o inclua um trabalho sÃ³ para atingir uma quantidade maior.",
-          "why": "VocÃª pode aproveitar produÃ§Ãµes dos cursos anteriores. Se ainda nÃ£o tem trÃªs peÃ§as, reserve tempo adicional para criÃ¡-las antes da prÃ¡tica da aula 8. A prÃ¡tica curta desta aula faz a seleÃ§Ã£o e identifica lacunas. A lista pode ficar preparada, mas a produÃ§Ã£o faltante continua pendente.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "concept": "Use MP4, imagens ou pêÂ¡ginas conforme sua oferta. Confira comeêÂ§o, fim, legibilidade, som quando houver e crêÂ©ditos. Guarde tambêÂ©m as fontes. Se uma peêÂ§a estiver fraca, planeje uma correêÂ§êÂ£o pequena. NêÂ£o inclua um trabalho sêÂ³ para atingir uma quantidade maior.",
+          "why": "VocêÂª pode aproveitar produêÂ§êÂµes dos cursos anteriores. Se ainda nêÂ£o tem trêÂªs peêÂ§as, reserve tempo adicional para criêÂ¡-las antes da prêÂ¡tica da aula 8. A prêÂ¡tica curta desta aula faz a seleêÂ§êÂ£o e identifica lacunas. A lista pode ficar preparada, mas a produêÂ§êÂ£o faltante continua pendente.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "TrÃªs linhas mostram o raciocÃ­nio",
-          "concept": "Use problema, decisÃ£o e evidÃªncia. Exemplo fictÃ­cio: apresentar a forma de um vaso; usar fundo simples e movimento curto; MP4 de 15 segundos revisado. A Ãºltima linha descreve um arquivo e sua conferÃªncia. NÃ£o precisa inventar indicadores de campanha para parecer profissional.",
-          "why": "Escreva tambÃ©m sua participaÃ§Ã£o: roteiro, geraÃ§Ã£o, ediÃ§Ã£o ou direÃ§Ã£o. Se outra pessoa contribuiu, atribua a parte correspondente. Nomeie a peÃ§a pela funÃ§Ã£o, como apresentaÃ§Ã£o de produto, em vez de um cÃ³digo de ferramenta. VocÃª pode manter o nome tÃ©cnico na pasta interna.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "TrêÂªs linhas mostram o raciocêÂ­nio",
+          "concept": "Use problema, decisêÂ£o e evidêÂªncia. Exemplo fictêÂ­cio: apresentar a forma de um vaso; usar fundo simples e movimento curto; MP4 de 15 segundos revisado. A êÂºltima linha descreve um arquivo e sua conferêÂªncia. NêÂ£o precisa inventar indicadores de campanha para parecer profissional.",
+          "why": "Escreva tambêÂ©m sua participaêÂ§êÂ£o: roteiro, geraêÂ§êÂ£o, ediêÂ§êÂ£o ou direêÂ§êÂ£o. Se outra pessoa contribuiu, atribua a parte correspondente. Nomeie a peêÂ§a pela funêÂ§êÂ£o, como apresentaêÂ§êÂ£o de produto, em vez de um cêÂ³digo de ferramenta. VocêÂª pode manter o nome têÂ©cnico na pasta interna.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
           "title": "Contexto curto ainda precisa ser verdadeiro",
-          "concept": "Uma peÃ§a produzida com IA pode ter boas decisÃµes humanas. Explique quais foram, sem esconder a origem quando ela importa. Evite dizer fotografia de produto real se o objeto foi inventado. No caso Bruma, a apresentaÃ§Ã£o Ã© um estudo com marca e produto fictÃ­cios.",
-          "why": "Redija uma legenda para cada trabalho selecionado. Leia junto do arquivo. Se uma frase nÃ£o puder ser conferida, retire ou reformule. A prÃ¡tica termina com trÃªs legendas vinculadas Ã s peÃ§as, nÃ£o com uma descriÃ§Ã£o genÃ©rica que poderia acompanhar qualquer imagem.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "concept": "Uma peêÂ§a produzida com IA pode ter boas decisêÂµes humanas. Explique quais foram, sem esconder a origem quando ela importa. Evite dizer fotografia de produto real se o objeto foi inventado. No caso Bruma, a apresentaêÂ§êÂ£o êÂ© um estudo com marca e produto fictêÂ­cios.",
+          "why": "Redija uma legenda para cada trabalho selecionado. Leia junto do arquivo. Se uma frase nêÂ£o puder ser conferida, retire ou reformule. A prêÂ¡tica termina com trêÂªs legendas vinculadas êÂ s peêÂ§as, nêÂ£o com uma descriêÂ§êÂ£o genêÂ©rica que poderia acompanhar qualquer imagem.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "Cada dia precisa de uma saÃ­da concreta",
-          "concept": "Use sete etapas: escolher oferta, selecionar peÃ§as, corrigir a primeira, corrigir a segunda, corrigir a terceira, montar apresentaÃ§Ã£o e revisar. Distribua nas datas possÃ­veis. Sete dias Ã© um ciclo de organizaÃ§Ã£o, nÃ£o garantia de produzir tudo nesse prazo.",
-          "why": "Se as trÃªs peÃ§as jÃ¡ estiverem prontas, use os dias de correÃ§Ã£o para revisar e registrar manter quando adequado. Caso precise criar do zero, ajuste o calendÃ¡rio ao esforÃ§o real. Este curso estima de 12 a 18 horas de estudo e organizaÃ§Ã£o com peÃ§as existentes. Nova produÃ§Ã£o exige tempo adicional.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "Cada dia precisa de uma saêÂ­da concreta",
+          "concept": "Use sete etapas: escolher oferta, selecionar peêÂ§as, corrigir a primeira, corrigir a segunda, corrigir a terceira, montar apresentaêÂ§êÂ£o e revisar. Distribua nas datas possêÂ­veis. Sete dias êÂ© um ciclo de organizaêÂ§êÂ£o, nêÂ£o garantia de produzir tudo nesse prazo.",
+          "why": "Se as trêÂªs peêÂ§as jêÂ¡ estiverem prontas, use os dias de correêÂ§êÂ£o para revisar e registrar manter quando adequado. Caso precise criar do zero, ajuste o calendêÂ¡rio ao esforêÂ§o real. Este curso estima de 12 a 18 horas de estudo e organizaêÂ§êÂ£o com peêÂ§as existentes. Nova produêÂ§êÂ£o exige tempo adicional.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "A apresentaÃ§Ã£o pode comeÃ§ar simples",
-          "concept": "Monte uma pasta com trÃªs arquivos e um PDF de apresentaÃ§Ã£o no editor que vocÃª conhece. Inclua oferta, trÃªs legendas, forma de contato e identificaÃ§Ã£o dos estudos. NÃ£o precisa comprar um site. Antes de compartilhar, abra o PDF e os arquivos num celular.",
-          "why": "A prÃ¡tica curta define datas e critÃ©rios. A montagem precisa acontecer antes da entrega final. Use planejado, em produÃ§Ã£o, revisar e pronto para distinguir estados. O caderno oferece uma ficha de sete etapas. NÃ£o marque pronto sÃ³ porque a data chegou.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "A apresentaêÂ§êÂ£o pode comeêÂ§ar simples",
+          "concept": "Monte uma pasta com trêÂªs arquivos e um PDF de apresentaêÂ§êÂ£o no editor que vocêÂª conhece. Inclua oferta, trêÂªs legendas, forma de contato e identificaêÂ§êÂ£o dos estudos. NêÂ£o precisa comprar um site. Antes de compartilhar, abra o PDF e os arquivos num celular.",
+          "why": "A prêÂ¡tica curta define datas e critêÂ©rios. A montagem precisa acontecer antes da entrega final. Use planejado, em produêÂ§êÂ£o, revisar e pronto para distinguir estados. O caderno oferece uma ficha de sete etapas. NêÂ£o marque pronto sêÂ³ porque a data chegou.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         }
       ]
     },
     {
       "title": "O olhar de quem contrata",
-      "promise": "Revise clareza, riscos e apresentaÃ§Ã£o.",
+      "promise": "Revise clareza, riscos e apresentaêÂ§êÂ£o.",
       "topics": [
         {
           "title": "O teste pergunta o que foi entendido",
-          "concept": "Mostre a primeira pÃ¡gina por dez segundos a alguÃ©m que nÃ£o conhece seu projeto, com sua concordÃ¢ncia. Depois pergunte: o que eu entrego, para quem e qual prÃ³ximo passo? Anote a resposta sem corrigir durante a tentativa. NÃ£o recolha informaÃ§Ãµes pessoais desnecessÃ¡rias.",
-          "why": "Se ninguÃ©m estiver disponÃ­vel, faÃ§a uma revisÃ£o individual e identifique a limitaÃ§Ã£o. Leia sÃ³ tÃ­tulo, imagem principal e contato. O chamado teste do desfoque pode ser usado como metÃ¡fora de simplificaÃ§Ã£o visual. NÃ£o precisa borrar a tela nem acreditar que isso prevÃª contrataÃ§Ã£o.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "concept": "Mostre a primeira pêÂ¡gina por dez segundos a alguêÂ©m que nêÂ£o conhece seu projeto, com sua concordêÂ¢ncia. Depois pergunte: o que eu entrego, para quem e qual prêÂ³ximo passo? Anote a resposta sem corrigir durante a tentativa. NêÂ£o recolha informaêÂ§êÂµes pessoais desnecessêÂ¡rias.",
+          "why": "Se ninguêÂ©m estiver disponêÂ­vel, faêÂ§a uma revisêÂ£o individual e identifique a limitaêÂ§êÂ£o. Leia sêÂ³ têÂ­tulo, imagem principal e contato. O chamado teste do desfoque pode ser usado como metêÂ¡fora de simplificaêÂ§êÂ£o visual. NêÂ£o precisa borrar a tela nem acreditar que isso prevêÂª contrataêÂ§êÂ£o.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "Corrija a informaÃ§Ã£o que ficou ausente",
-          "concept": "Se a pessoa entendeu vÃ­deo, mas nÃ£o o pÃºblico, ajuste a frase da oferta. Se encontrou um efeito bonito, mas nÃ£o o serviÃ§o, reorganize o tÃ­tulo. Se tudo estiver claro, registre manter com os trÃªs critÃ©rios. NÃ£o invente uma falha para preencher a ficha.",
-          "why": "Repita a revisÃ£o apÃ³s uma mudanÃ§a importante. Compare respostas, sem transformar uma pessoa em amostra representativa do mercado. A prÃ¡tica termina com um registro de clareza e uma decisÃ£o. O teste completo de venda dependerÃ¡ de conversas e contrataÃ§Ãµes reais.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "Corrija a informaêÂ§êÂ£o que ficou ausente",
+          "concept": "Se a pessoa entendeu vêÂ­deo, mas nêÂ£o o pêÂºblico, ajuste a frase da oferta. Se encontrou um efeito bonito, mas nêÂ£o o serviêÂ§o, reorganize o têÂ­tulo. Se tudo estiver claro, registre manter com os trêÂªs critêÂ©rios. NêÂ£o invente uma falha para preencher a ficha.",
+          "why": "Repita a revisêÂ£o apêÂ³s uma mudanêÂ§a importante. Compare respostas, sem transformar uma pessoa em amostra representativa do mercado. A prêÂ¡tica termina com um registro de clareza e uma decisêÂ£o. O teste completo de venda dependerêÂ¡ de conversas e contrataêÂ§êÂµes reais.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "Cada dÃºvida pede uma evidÃªncia diferente",
-          "concept": "Liste qualidade, prazo, direitos e comunicaÃ§Ã£o. Para qualidade, mostre uma peÃ§a conferida. Para prazo, explique etapas e dependÃªncias. Para direitos, apresente limites de uso e permissÃµes. Para comunicaÃ§Ã£o, defina quem aprova e como reÃºne comentÃ¡rios.",
-          "why": "Evite responder a tudo com confianÃ§a em excesso. Se uma funÃ§Ã£o ainda nÃ£o foi testada, diga que exige piloto. Se o produto precisa de detalhes exatos, combine referÃªncia real e revisÃ£o cuidadosa. Um gerador pode alterar forma, texto ou proporÃ§Ã£o mesmo com instruÃ§Ãµes.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "Cada dêÂºvida pede uma evidêÂªncia diferente",
+          "concept": "Liste qualidade, prazo, direitos e comunicaêÂ§êÂ£o. Para qualidade, mostre uma peêÂ§a conferida. Para prazo, explique etapas e dependêÂªncias. Para direitos, apresente limites de uso e permissêÂµes. Para comunicaêÂ§êÂ£o, defina quem aprova e como reêÂºne comentêÂ¡rios.",
+          "why": "Evite responder a tudo com confianêÂ§a em excesso. Se uma funêÂ§êÂ£o ainda nêÂ£o foi testada, diga que exige piloto. Se o produto precisa de detalhes exatos, combine referêÂªncia real e revisêÂ£o cuidadosa. Um gerador pode alterar forma, texto ou proporêÂ§êÂ£o mesmo com instruêÂ§êÂµes.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "O piloto tambÃ©m precisa de escopo",
-          "concept": "Um piloto Ã© um trabalho menor para avaliar uma soluÃ§Ã£o. Defina peÃ§a, duraÃ§Ã£o, revisÃ£o, preÃ§o e uso. NÃ£o chame trabalho gratuito ilimitado de teste obrigatÃ³rio para conquistar cliente. Um desconto sÃ³ faz sentido se vocÃª conhece seu custo e escolhe conscientemente a condiÃ§Ã£o.",
-          "why": "Na prÃ¡tica, preencha quatro dÃºvidas e suas respostas no caso Bruma. Use documento, exemplo ou etapa verificÃ¡vel. Se uma resposta depende de informaÃ§Ã£o ausente, marque pendente. O objetivo Ã© reduzir incerteza com evidÃªncia, sem prometer que nenhuma falha acontecerÃ¡.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "O piloto tambêÂ©m precisa de escopo",
+          "concept": "Um piloto êÂ© um trabalho menor para avaliar uma soluêÂ§êÂ£o. Defina peêÂ§a, duraêÂ§êÂ£o, revisêÂ£o, preêÂ§o e uso. NêÂ£o chame trabalho gratuito ilimitado de teste obrigatêÂ³rio para conquistar cliente. Um desconto sêÂ³ faz sentido se vocêÂª conhece seu custo e escolhe conscientemente a condiêÂ§êÂ£o.",
+          "why": "Na prêÂ¡tica, preencha quatro dêÂºvidas e suas respostas no caso Bruma. Use documento, exemplo ou etapa verificêÂ¡vel. Se uma resposta depende de informaêÂ§êÂ£o ausente, marque pendente. O objetivo êÂ© reduzir incerteza com evidêÂªncia, sem prometer que nenhuma falha acontecerêÂ¡.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "Duas seleÃ§Ãµes atendem perguntas diferentes",
-          "concept": "A seleÃ§Ã£o de contrataÃ§Ã£o mostra trabalhos pertinentes, revisados e com contexto. A seleÃ§Ã£o de laboratÃ³rio mostra tentativas e descobertas, identificadas como estudos. VocÃª pode manter ambas na mesma pasta ou apresentaÃ§Ã£o, desde que os rÃ³tulos deixem a diferenÃ§a clara.",
-          "why": "No exemplo, trÃªs vÃ­deos de produto sustentam a oferta do EstÃºdio Linha. Uma experiÃªncia abstrata com papel pode ficar no laboratÃ³rio. NÃ£o precisa esconder o estudo. Apenas evite que o cliente confunda um teste com algo aprovado para uso comercial.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "Duas seleêÂ§êÂµes atendem perguntas diferentes",
+          "concept": "A seleêÂ§êÂ£o de contrataêÂ§êÂ£o mostra trabalhos pertinentes, revisados e com contexto. A seleêÂ§êÂ£o de laboratêÂ³rio mostra tentativas e descobertas, identificadas como estudos. VocêÂª pode manter ambas na mesma pasta ou apresentaêÂ§êÂ£o, desde que os rêÂ³tulos deixem a diferenêÂ§a clara.",
+          "why": "No exemplo, trêÂªs vêÂ­deos de produto sustentam a oferta do EstêÂºdio Linha. Uma experiêÂªncia abstrata com papel pode ficar no laboratêÂ³rio. NêÂ£o precisa esconder o estudo. Apenas evite que o cliente confunda um teste com algo aprovado para uso comercial.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "O tÃ­tulo deve explicar funÃ§Ã£o e situaÃ§Ã£o",
-          "concept": "Use apresentaÃ§Ã£o de produto â€” estudo autoral revisado, ou exploraÃ§Ã£o de luz â€” experimento. Acrescente as trÃªs linhas da aula 8. Retire nomes que sÃ³ fazem sentido dentro do gerador. Um cÃ³digo interno pode continuar no arquivo, mas a apresentaÃ§Ã£o precisa falar com quem contrata.",
-          "why": "Confira tambÃ©m permissÃµes antes de exibir trabalho de cliente. Um projeto entregue pode ter restriÃ§Ã£o de divulgaÃ§Ã£o. Nesta prÃ¡tica, classifique seus materiais e escolha quais trÃªs entram na apresentaÃ§Ã£o principal. Mantenha os demais com sua situaÃ§Ã£o verdadeira.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "O têÂ­tulo deve explicar funêÂ§êÂ£o e situaêÂ§êÂ£o",
+          "concept": "Use apresentaêÂ§êÂ£o de produto ê¢â¬â estudo autoral revisado, ou exploraêÂ§êÂ£o de luz ê¢â¬â experimento. Acrescente as trêÂªs linhas da aula 8. Retire nomes que sêÂ³ fazem sentido dentro do gerador. Um cêÂ³digo interno pode continuar no arquivo, mas a apresentaêÂ§êÂ£o precisa falar com quem contrata.",
+          "why": "Confira tambêÂ©m permissêÂµes antes de exibir trabalho de cliente. Um projeto entregue pode ter restriêÂ§êÂ£o de divulgaêÂ§êÂ£o. Nesta prêÂ¡tica, classifique seus materiais e escolha quais trêÂªs entram na apresentaêÂ§êÂ£o principal. Mantenha os demais com sua situaêÂ§êÂ£o verdadeira.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         }
       ]
     },
     {
-      "title": "Pacotes e negociaÃ§Ã£o",
-      "promise": "Compare opÃ§Ãµes sem esconder trabalho.",
+      "title": "Pacotes e negociaêÂ§êÂ£o",
+      "promise": "Compare opêÂ§êÂµes sem esconder trabalho.",
       "topics": [
         {
-          "title": "Qualificar significa entender se hÃ¡ encaixe",
-          "concept": "Pergunte qual Ã© a entrega, onde serÃ¡ usada, qual prazo e quem aprova. PeÃ§a referÃªncias autorizadas e pergunte sobre a faixa de investimento disponÃ­vel. Se a pessoa ainda nÃ£o souber o valor, explique quais informaÃ§Ãµes vocÃª precisa para estimar. NÃ£o use desconhecimento como motivo para humilhar ou pressionar.",
-          "why": "Exemplo de resposta: obrigado pelo contexto; para propor algo viÃ¡vel, preciso de quantidade, duraÃ§Ã£o, canais e data desejada. HÃ¡ uma faixa de investimento prevista? Com isso, envio um escopo inicial. A mensagem pode ser preparada sem ser enviada nesta atividade.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "Qualificar significa entender se hêÂ¡ encaixe",
+          "concept": "Pergunte qual êÂ© a entrega, onde serêÂ¡ usada, qual prazo e quem aprova. PeêÂ§a referêÂªncias autorizadas e pergunte sobre a faixa de investimento disponêÂ­vel. Se a pessoa ainda nêÂ£o souber o valor, explique quais informaêÂ§êÂµes vocêÂª precisa para estimar. NêÂ£o use desconhecimento como motivo para humilhar ou pressionar.",
+          "why": "Exemplo de resposta: obrigado pelo contexto; para propor algo viêÂ¡vel, preciso de quantidade, duraêÂ§êÂ£o, canais e data desejada. HêÂ¡ uma faixa de investimento prevista? Com isso, envio um escopo inicial. A mensagem pode ser preparada sem ser enviada nesta atividade.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "A reuniÃ£o deve ter uma pergunta a resolver",
-          "concept": "Se o escopo estiver claro por escrito, talvez uma chamada nÃ£o seja necessÃ¡ria. Se houver decisÃ£o complexa, combine duraÃ§Ã£o e pauta. Depois registre o que foi acordado. Uma reuniÃ£o sem orÃ§amento definido pode ser Ãºtil para descobrir escopo; o limite depende do seu processo.",
-          "why": "Classifique o pedido como alinhado, precisa de informaÃ§Ã£o ou fora do escopo. NÃ£o chame uma pessoa de ruim porque nÃ£o pode contratar agora. Registre motivo profissional, como prazo incompatÃ­vel. Na prÃ¡tica, escreva uma resposta para o caso fictÃ­cio e escolha o prÃ³ximo passo.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "A reuniêÂ£o deve ter uma pergunta a resolver",
+          "concept": "Se o escopo estiver claro por escrito, talvez uma chamada nêÂ£o seja necessêÂ¡ria. Se houver decisêÂ£o complexa, combine duraêÂ§êÂ£o e pauta. Depois registre o que foi acordado. Uma reuniêÂ£o sem orêÂ§amento definido pode ser êÂºtil para descobrir escopo; o limite depende do seu processo.",
+          "why": "Classifique o pedido como alinhado, precisa de informaêÂ§êÂ£o ou fora do escopo. NêÂ£o chame uma pessoa de ruim porque nêÂ£o pode contratar agora. Registre motivo profissional, como prazo incompatêÂ­vel. Na prêÂ¡tica, escreva uma resposta para o caso fictêÂ­cio e escolha o prêÂ³ximo passo.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
           "title": "O pacote precisa variar por uma necessidade",
-          "concept": "Exemplo didÃ¡tico: A tem um vÃ­deo de 15 segundos e uma rodada; B, trÃªs vÃ­deos e duas rodadas; C, cinco vÃ­deos e duas rodadas. Todos sÃ£o verticais, com uso orgÃ¢nico por 30 dias. As opÃ§Ãµes maiores atendem uma sÃ©rie, sem prometer mais vendas.",
-          "why": "Defina se roteiro, voz e capa estÃ£o incluÃ­dos. No exercÃ­cio, roteiro e voz autorizada entram em todos; uma capa por vÃ­deo entra no C. Arquivos editÃ¡veis, mÃ­dia paga e traduÃ§Ã£o ficam fora. Uma rodada Ã© uma lista consolidada sobre o escopo aprovado, nÃ£o um novo conceito completo.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "concept": "Exemplo didêÂ¡tico: A tem um vêÂ­deo de 15 segundos e uma rodada; B, trêÂªs vêÂ­deos e duas rodadas; C, cinco vêÂ­deos e duas rodadas. Todos sêÂ£o verticais, com uso orgêÂ¢nico por 30 dias. As opêÂ§êÂµes maiores atendem uma sêÂ©rie, sem prometer mais vendas.",
+          "why": "Defina se roteiro, voz e capa estêÂ£o incluêÂ­dos. No exercêÂ­cio, roteiro e voz autorizada entram em todos; uma capa por vêÂ­deo entra no C. Arquivos editêÂ¡veis, mêÂ­dia paga e traduêÂ§êÂ£o ficam fora. Uma rodada êÂ© uma lista consolidada sobre o escopo aprovado, nêÂ£o um novo conceito completo.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "Cada pacote precisa do seu prÃ³prio custo",
-          "concept": "NÃ£o multiplique o menor preÃ§o sem observar o trabalho. Uma sÃ©rie pode reutilizar planejamento, mas ainda exige revisÃ£o por peÃ§a. Na simulaÃ§Ã£o, A custa R$ 600; B, R$ 1.170; C, R$ 1.740 antes das reservas percentuais. A calculadora mostra os preÃ§os com as mesmas hipÃ³teses.",
-          "why": "As trÃªs bases sÃ£o exemplos, nÃ£o valores de mercado. Ajuste horas, despesas e capacidade Ã  sua operaÃ§Ã£o. Nesta prÃ¡tica, preencha as trÃªs opÃ§Ãµes com pelo menos uma diferenÃ§a Ãºtil. Evite uma opÃ§Ã£o artificialmente ruim criada sÃ³ para empurrar outra.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "Cada pacote precisa do seu prêÂ³prio custo",
+          "concept": "NêÂ£o multiplique o menor preêÂ§o sem observar o trabalho. Uma sêÂ©rie pode reutilizar planejamento, mas ainda exige revisêÂ£o por peêÂ§a. Na simulaêÂ§êÂ£o, A custa R$ 600; B, R$ 1.170; C, R$ 1.740 antes das reservas percentuais. A calculadora mostra os preêÂ§os com as mesmas hipêÂ³teses.",
+          "why": "As trêÂªs bases sêÂ£o exemplos, nêÂ£o valores de mercado. Ajuste horas, despesas e capacidade êÂ  sua operaêÂ§êÂ£o. Nesta prêÂ¡tica, preencha as trêÂªs opêÂ§êÂµes com pelo menos uma diferenêÂ§a êÂºtil. Evite uma opêÂ§êÂ£o artificialmente ruim criada sêÂ³ para empurrar outra.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "Cinco regras tornam a negociaÃ§Ã£o conferÃ­vel",
-          "concept": "ConheÃ§a o custo, limite revisÃµes, cobre mudanÃ§as de escopo, separe direitos adicionais e confira capacidade. Essas regras organizam decisÃµes; nÃ£o garantem lucro. Um prazo urgente pode exigir reorganizaÃ§Ã£o ou recusa. NÃ£o acrescente uma taxa sem explicar o trabalho ou a condiÃ§Ã£o envolvida.",
-          "why": "Se o investimento disponÃ­vel for menor, ofereÃ§a uma peÃ§a mais curta, menos versÃµes ou uma etapa inicial. Preserve qualidade mÃ­nima e identificaÃ§Ã£o correta. NÃ£o retire revisÃ£o de direitos ou esconda falhas para reduzir o preÃ§o. O cliente precisa entender o que mudou na nova proposta.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "Cinco regras tornam a negociaêÂ§êÂ£o conferêÂ­vel",
+          "concept": "ConheêÂ§a o custo, limite revisêÂµes, cobre mudanêÂ§as de escopo, separe direitos adicionais e confira capacidade. Essas regras organizam decisêÂµes; nêÂ£o garantem lucro. Um prazo urgente pode exigir reorganizaêÂ§êÂ£o ou recusa. NêÂ£o acrescente uma taxa sem explicar o trabalho ou a condiêÂ§êÂ£o envolvida.",
+          "why": "Se o investimento disponêÂ­vel for menor, ofereêÂ§a uma peêÂ§a mais curta, menos versêÂµes ou uma etapa inicial. Preserve qualidade mêÂ­nima e identificaêÂ§êÂ£o correta. NêÂ£o retire revisêÂ£o de direitos ou esconda falhas para reduzir o preêÂ§o. O cliente precisa entender o que mudou na nova proposta.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "O adicional precisa ter uma descriÃ§Ã£o",
-          "concept": "Exemplo: versÃ£o horizontal exige reenquadramento, conferÃªncia de texto e nova exportaÃ§Ã£o. Estime esse trabalho e combine valor antes de executar. Uma licenÃ§a para anÃºncio pago tambÃ©m exige verificar permissÃµes e negociar uso. NÃ£o trate toda solicitaÃ§Ã£o extra como o mesmo tipo de custo.",
-          "why": "Na prÃ¡tica, compare proposta original e alternativa. Registre quantidade, direitos, revisÃ£o, prazo e preÃ§o em ambas. Se optar por desconto, mostre o efeito na margem e o motivo. NÃ£o precisa cobrar barato no primeiro trabalho como regra; vocÃª decide com base nos custos e na estratÃ©gia.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "O adicional precisa ter uma descriêÂ§êÂ£o",
+          "concept": "Exemplo: versêÂ£o horizontal exige reenquadramento, conferêÂªncia de texto e nova exportaêÂ§êÂ£o. Estime esse trabalho e combine valor antes de executar. Uma licenêÂ§a para anêÂºncio pago tambêÂ©m exige verificar permissêÂµes e negociar uso. NêÂ£o trate toda solicitaêÂ§êÂ£o extra como o mesmo tipo de custo.",
+          "why": "Na prêÂ¡tica, compare proposta original e alternativa. Registre quantidade, direitos, revisêÂ£o, prazo e preêÂ§o em ambas. Se optar por desconto, mostre o efeito na margem e o motivo. NêÂ£o precisa cobrar barato no primeiro trabalho como regra; vocêÂª decide com base nos custos e na estratêÂ©gia.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         }
       ]
     },
     {
       "title": "Abordagem com contexto",
-      "promise": "Prepare mensagens e acompanhe situaÃ§Ãµes verdadeiras.",
+      "promise": "Prepare mensagens e acompanhe situaêÂ§êÂµes verdadeiras.",
       "topics": [
         {
           "title": "Uma conversa conhecida oferece contexto",
-          "concept": "Comece por alguÃ©m que jÃ¡ conhece seu trabalho ou uma empresa cujo canal comercial convida propostas. Descreva por que seu serviÃ§o pode ser pertinente. NÃ£o invente amizade, indicaÃ§Ã£o ou interesse anterior. Uma mensagem curta deve permitir entender quem vocÃª Ã© e decidir se quer continuar.",
-          "why": "Exemplo de rascunho: olÃ¡, sou Rita e produzo vÃ­deos curtos de produto. Vi que o ateliÃª apresenta uma coleÃ§Ã£o nova. Tenho um estudo autoral de apresentaÃ§Ã£o de forma. Posso enviar o exemplo para vocÃª avaliar se faz sentido? SÃ³ use esse contexto se ele for verdadeiro.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "concept": "Comece por alguêÂ©m que jêÂ¡ conhece seu trabalho ou uma empresa cujo canal comercial convida propostas. Descreva por que seu serviêÂ§o pode ser pertinente. NêÂ£o invente amizade, indicaêÂ§êÂ£o ou interesse anterior. Uma mensagem curta deve permitir entender quem vocêÂª êÂ© e decidir se quer continuar.",
+          "why": "Exemplo de rascunho: olêÂ¡, sou Rita e produzo vêÂ­deos curtos de produto. Vi que o ateliêÂª apresenta uma coleêÂ§êÂ£o nova. Tenho um estudo autoral de apresentaêÂ§êÂ£o de forma. Posso enviar o exemplo para vocêÂª avaliar se faz sentido? SêÂ³ use esse contexto se ele for verdadeiro.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "Dados pÃºblicos ainda exigem cuidado",
-          "concept": "NÃ£o compre listas, extraia contatos pessoais em massa ou envie dados de clientes a um assistente sem necessidade. A ANPD orienta avaliar finalidade, necessidade e direitos das pessoas no tratamento de dados. Interesse comercial, sozinho, nÃ£o autoriza qualquer uso de informaÃ§Ã£o pessoal.",
-          "why": "Nesta prÃ¡tica, prepare trÃªs mensagens com contexto verificÃ¡vel ou destinatÃ¡rio fictÃ­cio. NÃ£o envie para concluir a aula. Uma eventual prospecÃ§Ã£o real deve respeitar o canal, as regras aplicÃ¡veis e pedidos para parar. Guarde apenas o mÃ­nimo necessÃ¡rio para organizar a conversa.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "Dados pêÂºblicos ainda exigem cuidado",
+          "concept": "NêÂ£o compre listas, extraia contatos pessoais em massa ou envie dados de clientes a um assistente sem necessidade. A ANPD orienta avaliar finalidade, necessidade e direitos das pessoas no tratamento de dados. Interesse comercial, sozinho, nêÂ£o autoriza qualquer uso de informaêÂ§êÂ£o pessoal.",
+          "why": "Nesta prêÂ¡tica, prepare trêÂªs mensagens com contexto verificêÂ¡vel ou destinatêÂ¡rio fictêÂ­cio. NêÂ£o envie para concluir a aula. Uma eventual prospecêÂ§êÂ£o real deve respeitar o canal, as regras aplicêÂ¡veis e pedidos para parar. Guarde apenas o mêÂ­nimo necessêÂ¡rio para organizar a conversa.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "O nÃºmero serve ao treino de escrita",
-          "concept": "O caderno traz vinte situaÃ§Ãµes autorais com uma estrutura de mensagem. Elas cobrem apresentaÃ§Ã£o, resposta a pedido, indicaÃ§Ã£o autorizada, retomada combinada e recusa. NÃ£o sÃ£o uma lista de pessoas para contatar. Leia todas e escolha trÃªs para adaptar ao seu serviÃ§o.",
-          "why": "Uma mensagem de primeiro contato pode ter identidade, observaÃ§Ã£o verdadeira, exemplo pertinente e pergunta curta. Uma resposta a um pedido pode ir direto ao escopo. Uma retomada sÃ³ deve ocorrer em contexto apropriado, sem transformar silÃªncio em consentimento ou insistir apÃ³s recusa.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "O nêÂºmero serve ao treino de escrita",
+          "concept": "O caderno traz vinte situaêÂ§êÂµes autorais com uma estrutura de mensagem. Elas cobrem apresentaêÂ§êÂ£o, resposta a pedido, indicaêÂ§êÂ£o autorizada, retomada combinada e recusa. NêÂ£o sêÂ£o uma lista de pessoas para contatar. Leia todas e escolha trêÂªs para adaptar ao seu serviêÂ§o.",
+          "why": "Uma mensagem de primeiro contato pode ter identidade, observaêÂ§êÂ£o verdadeira, exemplo pertinente e pergunta curta. Uma resposta a um pedido pode ir direto ao escopo. Uma retomada sêÂ³ deve ocorrer em contexto apropriado, sem transformar silêÂªncio em consentimento ou insistir apêÂ³s recusa.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "A personalizaÃ§Ã£o exige algo alÃ©m do nome",
-          "concept": "Trocar o nome numa mensagem genÃ©rica nÃ£o cria relevÃ¢ncia. Indique uma necessidade observÃ¡vel e uma peÃ§a adequada do seu portfÃ³lio. NÃ£o afirme que analisou a marca inteira se apenas viu uma pÃ¡gina. NÃ£o use elogio fabricado nem promessas de multiplicar vendas.",
-          "why": "Na prÃ¡tica, organize os vinte modelos em sua biblioteca e escreva trÃªs versÃµes prÃ³prias. Marque todos como rascunhos. O projeto final exige preparaÃ§Ã£o de abordagem, sem envio ou resposta obrigatÃ³rios. Nenhum sistema deste curso dispara mensagens.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "A personalizaêÂ§êÂ£o exige algo alêÂ©m do nome",
+          "concept": "Trocar o nome numa mensagem genêÂ©rica nêÂ£o cria relevêÂ¢ncia. Indique uma necessidade observêÂ¡vel e uma peêÂ§a adequada do seu portfêÂ³lio. NêÂ£o afirme que analisou a marca inteira se apenas viu uma pêÂ¡gina. NêÂ£o use elogio fabricado nem promessas de multiplicar vendas.",
+          "why": "Na prêÂ¡tica, organize os vinte modelos em sua biblioteca e escreva trêÂªs versêÂµes prêÂ³prias. Marque todos como rascunhos. O projeto final exige preparaêÂ§êÂ£o de abordagem, sem envio ou resposta obrigatêÂ³rios. Nenhum sistema deste curso dispara mensagens.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "O registro acompanha a decisÃ£o, nÃ£o vigia a pessoa",
-          "concept": "Use identificaÃ§Ã£o profissional mÃ­nima, contexto, data, situaÃ§Ã£o e prÃ³ximo passo. SituaÃ§Ãµes Ãºteis sÃ£o rascunho, aguardando resposta, informaÃ§Ã£o recebida, proposta e encerrado. NÃ£o registre dados sensÃ­veis ou opiniÃµes pessoais sobre o contato. O objetivo Ã© acompanhar o trabalho.",
-          "why": "Quando alguÃ©m pedir para nÃ£o receber novas mensagens, registre encerrado e respeite. Uma resposta negativa nÃ£o Ã© convite para vencer uma objeÃ§Ã£o a qualquer custo. Quando houver interesse, responda Ã  pergunta recebida e combine a prÃ³xima etapa. NÃ£o envie anexos grandes sem necessidade.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "O registro acompanha a decisêÂ£o, nêÂ£o vigia a pessoa",
+          "concept": "Use identificaêÂ§êÂ£o profissional mêÂ­nima, contexto, data, situaêÂ§êÂ£o e prêÂ³ximo passo. SituaêÂ§êÂµes êÂºteis sêÂ£o rascunho, aguardando resposta, informaêÂ§êÂ£o recebida, proposta e encerrado. NêÂ£o registre dados sensêÂ­veis ou opiniêÂµes pessoais sobre o contato. O objetivo êÂ© acompanhar o trabalho.",
+          "why": "Quando alguêÂ©m pedir para nêÂ£o receber novas mensagens, registre encerrado e respeite. Uma resposta negativa nêÂ£o êÂ© convite para vencer uma objeêÂ§êÂ£o a qualquer custo. Quando houver interesse, responda êÂ  pergunta recebida e combine a prêÂ³xima etapa. NêÂ£o envie anexos grandes sem necessidade.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
           "title": "Uma retomada precisa de motivo e limite",
-          "concept": "Se combinar retorno numa data, registre esse acordo. Exemplo: envio a estimativa na quinta apÃ³s receber as referÃªncias. Se nÃ£o houve acordo, avalie se uma Ãºnica retomada pertinente Ã© apropriada ao canal. NÃ£o transforme a prÃ¡tica em sequÃªncia automÃ¡tica de cobranÃ§as.",
-          "why": "Preencha trÃªs linhas fictÃ­cias: um rascunho, uma proposta em preparaÃ§Ã£o e um encerramento. Escreva o prÃ³ximo passo ou nenhum, conforme o caso. A atividade nÃ£o exige contato real. Dados de treino devem continuar identificados como fictÃ­cios.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "concept": "Se combinar retorno numa data, registre esse acordo. Exemplo: envio a estimativa na quinta apêÂ³s receber as referêÂªncias. Se nêÂ£o houve acordo, avalie se uma êÂºnica retomada pertinente êÂ© apropriada ao canal. NêÂ£o transforme a prêÂ¡tica em sequêÂªncia automêÂ¡tica de cobranêÂ§as.",
+          "why": "Preencha trêÂªs linhas fictêÂ­cias: um rascunho, uma proposta em preparaêÂ§êÂ£o e um encerramento. Escreva o prêÂ³ximo passo ou nenhum, conforme o caso. A atividade nêÂ£o exige contato real. Dados de treino devem continuar identificados como fictêÂ­cios.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         }
       ]
     },
     {
-      "title": "Qualidade e formalizaÃ§Ã£o",
-      "promise": "Confira tÃ©cnica, condiÃ§Ãµes e dÃºvidas brasileiras.",
+      "title": "Qualidade e formalizaêÂ§êÂ£o",
+      "promise": "Confira têÂ©cnica, condiêÂ§êÂµes e dêÂºvidas brasileiras.",
       "topics": [
         {
-          "title": "A ferramenta nÃ£o substitui a direÃ§Ã£o",
-          "concept": "Quem organiza movimento, texto e som toma decisÃµes de comunicaÃ§Ã£o. A IA pode criar materiais, mas vocÃª precisa conferir continuidade, objeto, mÃ£os e voz. Abra uma peÃ§a prÃ³pria fora do editor. Veja inteira uma vez e depois examine os pontos crÃ­ticos.",
-          "why": "No vaso Bruma, confira boca, base, cor e proporÃ§Ã£o. Uma imagem bonita nÃ£o autoriza alterar o produto vendido. Se a peÃ§a usa um personagem, confira identificaÃ§Ã£o e autorizaÃ§Ã£o das referÃªncias. NÃ£o apresente um rosto sintÃ©tico como cliente real satisfeito.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "A ferramenta nêÂ£o substitui a direêÂ§êÂ£o",
+          "concept": "Quem organiza movimento, texto e som toma decisêÂµes de comunicaêÂ§êÂ£o. A IA pode criar materiais, mas vocêÂª precisa conferir continuidade, objeto, mêÂ£os e voz. Abra uma peêÂ§a prêÂ³pria fora do editor. Veja inteira uma vez e depois examine os pontos crêÂ­ticos.",
+          "why": "No vaso Bruma, confira boca, base, cor e proporêÂ§êÂ£o. Uma imagem bonita nêÂ£o autoriza alterar o produto vendido. Se a peêÂ§a usa um personagem, confira identificaêÂ§êÂ£o e autorizaêÂ§êÂ£o das referêÂªncias. NêÂ£o apresente um rosto sintêÂ©tico como cliente real satisfeito.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "A revisÃ£o precisa produzir uma decisÃ£o",
-          "concept": "Use trÃªs situaÃ§Ãµes: aprovado, corrigir ou refazer. Registre o tempo do problema no vÃ­deo e descreva o defeito. Exemplo: aos quatro segundos, a borda muda de forma. Se nÃ£o encontrou defeito, registre o critÃ©rio conferido. NÃ£o invente uma correÃ§Ã£o para preencher a ficha.",
-          "why": "A aula usa uma peÃ§a jÃ¡ existente. Se faltar, produza primeiro no curso tÃ©cnico correspondente. Os dez minutos cobrem a revisÃ£o, sem incluir geraÃ§Ã£o e ediÃ§Ã£o. Um acabamento diferente pode ser escolha estÃ©tica; uma informaÃ§Ã£o falsa sobre o produto precisa ser corrigida.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "A revisêÂ£o precisa produzir uma decisêÂ£o",
+          "concept": "Use trêÂªs situaêÂ§êÂµes: aprovado, corrigir ou refazer. Registre o tempo do problema no vêÂ­deo e descreva o defeito. Exemplo: aos quatro segundos, a borda muda de forma. Se nêÂ£o encontrou defeito, registre o critêÂ©rio conferido. NêÂ£o invente uma correêÂ§êÂ£o para preencher a ficha.",
+          "why": "A aula usa uma peêÂ§a jêÂ¡ existente. Se faltar, produza primeiro no curso têÂ©cnico correspondente. Os dez minutos cobrem a revisêÂ£o, sem incluir geraêÂ§êÂ£o e ediêÂ§êÂ£o. Um acabamento diferente pode ser escolha estêÂ©tica; uma informaêÂ§êÂ£o falsa sobre o produto precisa ser corrigida.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "A funÃ§Ã£o orienta a presenÃ§a de um rosto",
-          "concept": "Um vÃ­deo sem apresentador pode mostrar detalhes, texto e narraÃ§Ã£o autorizada. Um avatar pode explicar um processo, desde que sua natureza seja clara. Escolha pela mensagem e pelos direitos disponÃ­veis. NÃ£o simule testemunho pessoal ou experiÃªncia de uso que nÃ£o aconteceu.",
-          "why": "Para a Bruma, um vÃ­deo do vaso pode cumprir a funÃ§Ã£o sem personagem. Uma explicaÃ§Ã£o sobre manutenÃ§Ã£o talvez precise de narraÃ§Ã£o. Registre o motivo da escolha. AparÃªncia de beleza ou realismo nÃ£o substitui fidelidade ao produto, clareza e identificaÃ§Ã£o de material sintÃ©tico.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "A funêÂ§êÂ£o orienta a presenêÂ§a de um rosto",
+          "concept": "Um vêÂ­deo sem apresentador pode mostrar detalhes, texto e narraêÂ§êÂ£o autorizada. Um avatar pode explicar um processo, desde que sua natureza seja clara. Escolha pela mensagem e pelos direitos disponêÂ­veis. NêÂ£o simule testemunho pessoal ou experiêÂªncia de uso que nêÂ£o aconteceu.",
+          "why": "Para a Bruma, um vêÂ­deo do vaso pode cumprir a funêÂ§êÂ£o sem personagem. Uma explicaêÂ§êÂ£o sobre manutenêÂ§êÂ£o talvez precise de narraêÂ§êÂ£o. Registre o motivo da escolha. AparêÂªncia de beleza ou realismo nêÂ£o substitui fidelidade ao produto, clareza e identificaêÂ§êÂ£o de material sintêÂ©tico.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "Conta e cliente exigem conferÃªncia especÃ­fica",
-          "concept": "Use uma conta existente quando pÃºblico e histÃ³rico forem coerentes com o novo trabalho. Uma conta nova pode separar projetos distintos. NÃ£o compre contas envelhecidas como promessa de alcance. Confira regras da plataforma e acesso autorizado antes de produzir para uma marca.",
-          "why": "Marcas maiores podem ter exigÃªncias prÃ³prias sobre IA, fornecedores, confidencialidade e aprovaÃ§Ã£o. Pergunte por escrito quais sÃ£o as condiÃ§Ãµes do projeto. NÃ£o conclua que toda marca aceita ou proÃ­be a mesma coisa. A prÃ¡tica registra perguntas, sem contatar empresas nem criar contas.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "Conta e cliente exigem conferêÂªncia especêÂ­fica",
+          "concept": "Use uma conta existente quando pêÂºblico e histêÂ³rico forem coerentes com o novo trabalho. Uma conta nova pode separar projetos distintos. NêÂ£o compre contas envelhecidas como promessa de alcance. Confira regras da plataforma e acesso autorizado antes de produzir para uma marca.",
+          "why": "Marcas maiores podem ter exigêÂªncias prêÂ³prias sobre IA, fornecedores, confidencialidade e aprovaêÂ§êÂ£o. Pergunte por escrito quais sêÂ£o as condiêÂ§êÂµes do projeto. NêÂ£o conclua que toda marca aceita ou proêÂ­be a mesma coisa. A prêÂ¡tica registra perguntas, sem contatar empresas nem criar contas.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
           "title": "A atividade precisa corresponder ao trabalho",
-          "concept": "O portal oficial lista editor de vÃ­deo independente entre as ocupaÃ§Ãµes permitidas ao MEI. Isso nÃ£o torna todo serviÃ§o criativo automaticamente elegÃ­vel. Descreva suas atividades e confira condiÃ§Ãµes atuais com orientaÃ§Ã£o contÃ¡bil. NÃ£o abra empresa ou escolha enquadramento apenas por esta aula.",
-          "why": "Quando houver obrigaÃ§Ã£o de emitir nota, confira o procedimento correspondente Ã  sua situaÃ§Ã£o. Para MEI prestador de serviÃ§os, consulte as regras da NFS-e nacional. As fontes oficiais estÃ£o no material complementar. A prÃ¡tica prepara perguntas; nÃ£o calcula tributos nem substitui anÃ¡lise profissional.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "concept": "O portal oficial lista editor de vêÂ­deo independente entre as ocupaêÂ§êÂµes permitidas ao MEI. Isso nêÂ£o torna todo serviêÂ§o criativo automaticamente elegêÂ­vel. Descreva suas atividades e confira condiêÂ§êÂµes atuais com orientaêÂ§êÂ£o contêÂ¡bil. NêÂ£o abra empresa ou escolha enquadramento apenas por esta aula.",
+          "why": "Quando houver obrigaêÂ§êÂ£o de emitir nota, confira o procedimento correspondente êÂ  sua situaêÂ§êÂ£o. Para MEI prestador de serviêÂ§os, consulte as regras da NFS-e nacional. As fontes oficiais estêÂ£o no material complementar. A prêÂ¡tica prepara perguntas; nêÂ£o calcula tributos nem substitui anêÂ¡lise profissional.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "O acordo e o recebimento devem ser verificÃ¡veis",
-          "concept": "Registre partes, escopo, revisÃµes, preÃ§o, etapas de pagamento, prazo e uso permitido. Uma proposta didÃ¡tica nÃ£o Ã© um contrato completo. Para a contrataÃ§Ã£o real, ajuste direitos, cancelamento e responsabilidades com orientaÃ§Ã£o adequada. Preserve aprovaÃ§Ãµes e comprovantes de forma organizada.",
-          "why": "Se combinar Pix, confira o recebimento no extrato da sua instituiÃ§Ã£o. Uma imagem de comprovante nÃ£o basta para confirmar saldo recebido. Use canais oficiais do banco em caso de dÃºvida. Nesta aula, nenhum pagamento Ã© realizado ou solicitado.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "O acordo e o recebimento devem ser verificêÂ¡veis",
+          "concept": "Registre partes, escopo, revisêÂµes, preêÂ§o, etapas de pagamento, prazo e uso permitido. Uma proposta didêÂ¡tica nêÂ£o êÂ© um contrato completo. Para a contrataêÂ§êÂ£o real, ajuste direitos, cancelamento e responsabilidades com orientaêÂ§êÂ£o adequada. Preserve aprovaêÂ§êÂµes e comprovantes de forma organizada.",
+          "why": "Se combinar Pix, confira o recebimento no extrato da sua instituiêÂ§êÂ£o. Uma imagem de comprovante nêÂ£o basta para confirmar saldo recebido. Use canais oficiais do banco em caso de dêÂºvida. Nesta aula, nenhum pagamento êÂ© realizado ou solicitado.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         }
       ]
     },
     {
-      "title": "Uma oferta pronta para revisÃ£o",
-      "promise": "ReÃºna proposta, portfÃ³lio e prÃ³ximo passo.",
+      "title": "Uma oferta pronta para revisêÂ£o",
+      "promise": "ReêÂºna proposta, portfêÂ³lio e prêÂ³ximo passo.",
       "topics": [
         {
-          "title": "A proposta comeÃ§a pelo problema e pela entrega",
-          "concept": "Abra o modelo do caderno. Escreva pÃºblico, necessidade, serviÃ§o e exemplo pertinente. Apresente os trÃªs pacotes com diferenÃ§as Ãºteis. Inclua quantidade, duraÃ§Ã£o, formato, revisÃ£o, uso e preÃ§o calculado. Identifique todos os valores de simulaÃ§Ã£o como exemplos.",
-          "why": "Acrescente materiais necessÃ¡rios, responsÃ¡vel por aprovar e marco inicial do prazo. No caso Bruma, o prazo depende das referÃªncias e da aprovaÃ§Ã£o prevista. Defina validade da proposta e etapas de pagamento apenas quando conseguir sustentÃ¡-las. NÃ£o invente uma data disponÃ­vel na sua agenda.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "A proposta comeêÂ§a pelo problema e pela entrega",
+          "concept": "Abra o modelo do caderno. Escreva pêÂºblico, necessidade, serviêÂ§o e exemplo pertinente. Apresente os trêÂªs pacotes com diferenêÂ§as êÂºteis. Inclua quantidade, duraêÂ§êÂ£o, formato, revisêÂ£o, uso e preêÂ§o calculado. Identifique todos os valores de simulaêÂ§êÂ£o como exemplos.",
+          "why": "Acrescente materiais necessêÂ¡rios, responsêÂ¡vel por aprovar e marco inicial do prazo. No caso Bruma, o prazo depende das referêÂªncias e da aprovaêÂ§êÂ£o prevista. Defina validade da proposta e etapas de pagamento apenas quando conseguir sustentêÂ¡-las. NêÂ£o invente uma data disponêÂ­vel na sua agenda.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "Campos pendentes precisam continuar visÃ­veis",
-          "concept": "Direitos de terceiros, enquadramento e exigÃªncias do cliente podem precisar de confirmaÃ§Ã£o. Marque cada pendÃªncia antes de apresentar uma versÃ£o definitiva. NÃ£o transforme este modelo de estudo em contrato pronto. Ele organiza a conversa e a revisÃ£o necessÃ¡ria.",
-          "why": "Leia como alguÃ©m que nunca conversou com vocÃª. Ã‰ possÃ­vel identificar o que recebe, o que fornece e como aprova? A proposta precisa permitir comparar opÃ§Ãµes. Nesta aula, salve um rascunho local. NÃ£o Ã© necessÃ¡rio enviar ou conseguir aprovaÃ§Ã£o para concluir o exercÃ­cio.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "Campos pendentes precisam continuar visêÂ­veis",
+          "concept": "Direitos de terceiros, enquadramento e exigêÂªncias do cliente podem precisar de confirmaêÂ§êÂ£o. Marque cada pendêÂªncia antes de apresentar uma versêÂ£o definitiva. NêÂ£o transforme este modelo de estudo em contrato pronto. Ele organiza a conversa e a revisêÂ£o necessêÂ¡ria.",
+          "why": "Leia como alguêÂ©m que nunca conversou com vocêÂª. êâ° possêÂ­vel identificar o que recebe, o que fornece e como aprova? A proposta precisa permitir comparar opêÂ§êÂµes. Nesta aula, salve um rascunho local. NêÂ£o êÂ© necessêÂ¡rio enviar ou conseguir aprovaêÂ§êÂ£o para concluir o exercêÂ­cio.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "Cada peÃ§a precisa existir e estar autorizada",
-          "concept": "ReÃºna trÃªs arquivos prÃ³prios revisados. Use estudos identificados quando nÃ£o houver cliente real. Para cada peÃ§a, registre problema, decisÃ£o visual, sua participaÃ§Ã£o e evidÃªncia disponÃ­vel. NÃ£o atribua vendas ou alcance a um exercÃ­cio. Confira autorizaÃ§Ã£o para expor trabalho de terceiros.",
-          "why": "Monte um PDF com apresentaÃ§Ã£o, oferta, trÃªs peÃ§as e contato profissional. Para vÃ­deo, use uma imagem de capa e um endereÃ§o acessÃ­vel ao arquivo, conforme a visibilidade escolhida. Confira os endereÃ§os fora do editor. NÃ£o inclua informaÃ§Ãµes privadas ou materiais sem permissÃ£o.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "Cada peêÂ§a precisa existir e estar autorizada",
+          "concept": "ReêÂºna trêÂªs arquivos prêÂ³prios revisados. Use estudos identificados quando nêÂ£o houver cliente real. Para cada peêÂ§a, registre problema, decisêÂ£o visual, sua participaêÂ§êÂ£o e evidêÂªncia disponêÂ­vel. NêÂ£o atribua vendas ou alcance a um exercêÂ­cio. Confira autorizaêÂ§êÂ£o para expor trabalho de terceiros.",
+          "why": "Monte um PDF com apresentaêÂ§êÂ£o, oferta, trêÂªs peêÂ§as e contato profissional. Para vêÂ­deo, use uma imagem de capa e um endereêÂ§o acessêÂ­vel ao arquivo, conforme a visibilidade escolhida. Confira os endereêÂ§os fora do editor. NêÂ£o inclua informaêÂ§êÂµes privadas ou materiais sem permissêÂ£o.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "A revisÃ£o curta acontece depois da produÃ§Ã£o",
-          "concept": "Abra os trÃªs arquivos e o PDF no celular. Confira leitura, identidade, direitos e acesso. Os dez minutos desta prÃ¡tica sÃ£o para essa conferÃªncia. Produzir ou corrigir as peÃ§as exige tempo adicional. Se algum arquivo faltar, mantenha a entrega pendente.",
-          "why": "VocÃª pode montar o PDF na ferramenta que jÃ¡ conhece. O curso de Figma oferece uma opÃ§Ã£o de diagramaÃ§Ã£o. Uma apresentaÃ§Ã£o simples e legÃ­vel Ã© suficiente. Salve tambÃ©m uma cÃ³pia dos originais e da ficha de permissÃµes. A entrega exige arquivos reais, nÃ£o apenas o modelo preenchido.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "A revisêÂ£o curta acontece depois da produêÂ§êÂ£o",
+          "concept": "Abra os trêÂªs arquivos e o PDF no celular. Confira leitura, identidade, direitos e acesso. Os dez minutos desta prêÂ¡tica sêÂ£o para essa conferêÂªncia. Produzir ou corrigir as peêÂ§as exige tempo adicional. Se algum arquivo faltar, mantenha a entrega pendente.",
+          "why": "VocêÂª pode montar o PDF na ferramenta que jêÂ¡ conhece. O curso de Figma oferece uma opêÂ§êÂ£o de diagramaêÂ§êÂ£o. Uma apresentaêÂ§êÂ£o simples e legêÂ­vel êÂ© suficiente. Salve tambêÂ©m uma cêÂ³pia dos originais e da ficha de permissêÂµes. A entrega exige arquivos reais, nêÂ£o apenas o modelo preenchido.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         },
         {
-          "title": "A pasta reÃºne evidÃªncia do trabalho",
-          "concept": "Confira oferta em uma frase, ficha de escopo, cÃ¡lculo com premissas e trÃªs pacotes. Acrescente portfÃ³lio com trÃªs arquivos e PDF, plano de sete dias e biblioteca de vinte abordagens consultadas. Guarde trÃªs rascunhos prÃ³prios e o registro de acompanhamento fictÃ­cio.",
-          "why": "Revise perguntas de formalizaÃ§Ã£o, permissÃµes e condiÃ§Ãµes ainda abertas. Uma pendÃªncia pode impedir contrataÃ§Ã£o, mesmo com o material de estudo concluÃ­do. Registre essa diferenÃ§a. NÃ£o marque proposta enviada, cliente aprovado ou pagamento recebido sem que isso tenha acontecido.",
-          "practice": "Aplique a decisÃ£o ao seu perfil. Preserve a versÃ£o anterior e registre o que mudou.",
-          "caution": "O EstÃºdio Linha e a marca Bruma sÃ£o casos fictÃ­cios. As imagens sÃ£o ilustraÃ§Ãµes do Codex, sem comprovar execuÃ§Ã£o fÃ­sica ou resultado comercial."
+          "title": "A pasta reêÂºne evidêÂªncia do trabalho",
+          "concept": "Confira oferta em uma frase, ficha de escopo, cêÂ¡lculo com premissas e trêÂªs pacotes. Acrescente portfêÂ³lio com trêÂªs arquivos e PDF, plano de sete dias e biblioteca de vinte abordagens consultadas. Guarde trêÂªs rascunhos prêÂ³prios e o registro de acompanhamento fictêÂ­cio.",
+          "why": "Revise perguntas de formalizaêÂ§êÂ£o, permissêÂµes e condiêÂ§êÂµes ainda abertas. Uma pendêÂªncia pode impedir contrataêÂ§êÂ£o, mesmo com o material de estudo concluêÂ­do. Registre essa diferenêÂ§a. NêÂ£o marque proposta enviada, cliente aprovado ou pagamento recebido sem que isso tenha acontecido.",
+          "practice": "Aplique a decisêÂ£o ao seu perfil. Preserve a versêÂ£o anterior e registre o que mudou.",
+          "caution": "O EstêÂºdio Linha e a marca Bruma sêÂ£o casos fictêÂ­cios. As imagens sêÂ£o ilustraêÂ§êÂµes do Codex, sem comprovar execuêÂ§êÂ£o fêÂ­sica ou resultado comercial."
         },
         {
-          "title": "O prÃ³ximo passo cabe na sua agenda",
-          "concept": "Escolha uma aÃ§Ã£o: corrigir uma peÃ§a, confirmar uma condiÃ§Ã£o, pedir uma leitura do portfÃ³lio ou responder a uma oportunidade legÃ­tima. Defina data e critÃ©rio de conclusÃ£o. Contato real Ã© opcional e exige contexto adequado. Este curso nÃ£o envia mensagens nem promete resposta.",
-          "why": "Compare o material com a oferta inicial. VocÃª consegue explicar serviÃ§o, custo e limites com mais clareza? Registre uma mudanÃ§a concreta. A entrega do curso termina com a preparaÃ§Ã£o conferida. NegociaÃ§Ã£o e execuÃ§Ã£o comercial continuam como trabalho futuro, com situaÃ§Ãµes verdadeiras.",
-          "practice": "Confira o exemplo e escreva uma alternativa que vocÃª consegue produzir com os recursos disponÃ­veis.",
-          "caution": "Recursos, nomes e indicadores variam conforme conta, regiÃ£o e versÃ£o. Consulte a documentaÃ§Ã£o oficial antes de publicar."
+          "title": "O prêÂ³ximo passo cabe na sua agenda",
+          "concept": "Escolha uma aêÂ§êÂ£o: corrigir uma peêÂ§a, confirmar uma condiêÂ§êÂ£o, pedir uma leitura do portfêÂ³lio ou responder a uma oportunidade legêÂ­tima. Defina data e critêÂ©rio de conclusêÂ£o. Contato real êÂ© opcional e exige contexto adequado. Este curso nêÂ£o envia mensagens nem promete resposta.",
+          "why": "Compare o material com a oferta inicial. VocêÂª consegue explicar serviêÂ§o, custo e limites com mais clareza? Registre uma mudanêÂ§a concreta. A entrega do curso termina com a preparaêÂ§êÂ£o conferida. NegociaêÂ§êÂ£o e execuêÂ§êÂ£o comercial continuam como trabalho futuro, com situaêÂ§êÂµes verdadeiras.",
+          "practice": "Confira o exemplo e escreva uma alternativa que vocêÂª consegue produzir com os recursos disponêÂ­veis.",
+          "caution": "Recursos, nomes e indicadores variam conforme conta, regiêÂ£o e versêÂ£o. Consulte a documentaêÂ§êÂ£o oficial antes de publicar."
         }
       ]
     }
